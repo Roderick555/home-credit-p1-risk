@@ -18,7 +18,7 @@ Tighten approval for Cash Loans where AMT_CREDIT > 10 * AMT_INCOME_TOTAL.
 
 ## Tools: SQL, SQLite, Excel for visualization
 
-
+![Result](result.png)
 
 
 
